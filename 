@@ -1,0 +1,23 @@
+[33mcommit 06dba011c72616b32df74f86ef65d7268e48e10b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: neal <nakagawa.neal@gmail.com>
+Date:   Tue Aug 9 10:45:46 2022 -0700
+
+    added main.go empty with main function
+
+[33mcommit e7c4c5561f42767ce1a128ed2bfdee5452e8393e[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: neal <nakagawa.neal@gmail.com>
+Date:   Sun Aug 7 09:24:32 2022 -0700
+
+    added body{} in main.css
+
+[33mcommit 97e36522c3d07e72b21a19b0427290be45405daf[m
+Author: neal <nakagawa.neal@gmail.com>
+Date:   Sun Aug 7 08:31:58 2022 -0700
+
+    added console.log
+
+[33mcommit 802b9273dd9960f79d72ae94538a2677ba7b1c1c[m
+Author: neal <nakagawa.neal@gmail.com>
+Date:   Sun Aug 7 08:20:04 2022 -0700
+
+    bootstrap project
